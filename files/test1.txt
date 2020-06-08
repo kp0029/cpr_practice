@@ -1,2 +1,1 @@
-this is test1
-line 2 from github
+line 1 from github
